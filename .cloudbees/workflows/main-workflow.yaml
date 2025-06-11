@@ -188,7 +188,7 @@ jobs:
         with:
           content: |-
             ## Deployed environment
-            [Production frontend](https://hackers-organized-prod.preview.cb-demos.io/)
+            [Production frontend](https://hackers-organized-prod.preview.cb-demos.io/neus)
 
             Running hackers-organized:${{ cloudbees.scm.sha }}
           format: MARKDOWN
